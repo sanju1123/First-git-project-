@@ -1,1 +1,1 @@
-In thid first GIT Project trying to learn same basics of GIT
+In thid first GIT Project trying to learn same basics of GIT and successfully added first git repository 
